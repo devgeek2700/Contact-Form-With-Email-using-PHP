@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/php-contact-form.git
+   git clone https://github.com/devgeek2700/Contact-Form-With-Email-using-PHP.git
    ```
 
 2. Configure the PHPMailer settings:

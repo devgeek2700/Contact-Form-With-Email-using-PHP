@@ -1,11 +1,6 @@
-# Contact-Form-With-Email-using-PHP
-This is a basic contact form implementation in PHP that allows users to submit their contact information. The form is designed to send an email to a specified recipient with the user's details upon submission.
+# Contact-Form-With-Email-using-PHPMailer
 
-
-
-# PHP Contact Form with PHPMailer
-
-Welcome to the PHP Contact Form with PHPMailer! This project provides a basic contact form implementation in PHP, allowing users to submit their contact information. The form is designed to send an email using PHPMailer to a specified recipient, including the user's details upon submission.
+This project provides a basic contact form implementation in PHP, allowing users to submit their contact information. The form is designed to send an email using PHPMailer to a specified recipient, including the user's details upon submission.
 
 ## Features
 
